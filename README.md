@@ -55,7 +55,7 @@ No specific AWS credentials are required for running this application. The workl
 
 ## **Other AWS resources used**   
 
-- OpenFaas Function --> face_recognition
+- OpenFaas Function --> face-recognition-openfaas-deb
 - DynamoDB table --> blankSpace-student-data
 
 ## **Description**
